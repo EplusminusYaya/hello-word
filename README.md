@@ -1,2 +1,2 @@
 # hello-word
-My first repository on GitHub
+The repository is used to slove a long-term debated question.
